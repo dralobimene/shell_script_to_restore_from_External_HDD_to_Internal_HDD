@@ -1,4 +1,4 @@
-# shell_script_to_restore_from_External_HDD_to_Internal_HDD
+# shell_script_to_restore_from_External_HDD_to_Internal_HDD (5partitions, no SSD)
 
 Shell script to restore. with this, you will clone your external hard disk drive to your internal hard disk drive.<br>
 <br>
